@@ -131,7 +131,7 @@ Make sure that you have installed yarn and git
 1. Download the repo
 
    ```
-   git clone https://github.com/koodo-reader/koodo-reader.git
+   git clone https://github.com/pvenkatesh282675-ops/koodo-reader.git
    ```
 
 2. Enter desktop mode
